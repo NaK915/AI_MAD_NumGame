@@ -1,3 +1,4 @@
+<h1> THIS IS MY PROJECT </h1>
 <h1 align=center> Information about the Project </h1>
 <ul>
 <li>This Project is a partially built project on Simple Arithmetic Game for <i>single player</i>.</li>
